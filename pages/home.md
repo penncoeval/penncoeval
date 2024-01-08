@@ -1,17 +1,11 @@
 ---
 layout: home
-title: Your research project
-description: Uses an easy to customize theme for its website
-background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
+title: PennCoEval
+description: Penn Consortium for Expert Evaluation of Language Models
+background: /assets/theme/images/pawel-czerwinski-APVgVX_yDDc-unsplash.jpg
 permalink: /
 ---
 
-[Petridish](https://github.com/peterdesmet/petridish) is a Jekyll theme for research project websites. Or your personal blog or lab website. 👩‍🔬 It's mobile-friendly (thanks to [Bootstrap 5](https://getbootstrap.com/docs/5.1/)), free, easy to customize, and designed to work well with [GitHub Pages](https://pages.github.com/).
+We are a group of researchers at the CIS (Computer and Information Science) department at Penn, and Google DeepMind. As large language models (such as ChatGPT and BARD) are quickly adopted by a diverse and sophisticated set of users across fields, we believe that it is imperative to evaluate their capabilities by bringing together experts from different fields. For this reason, we are setting up the Penn Consortium for Expert Evaluation of Language Models.
 
-## Installation
-
-See the demo website for instructions:
-
-- [Installation]({{ '/docs/installation/' | relative_url }})
-- [Configuration]({{ '/docs/configuration/' | relative_url }})
-- [Markdown]({{ '/docs/markdown/' | relative_url }})
+The goal of this consortium is to bring together experts from various fields at Penn, to create a multidisciplinary forum for discussion about the use of language models. We are interested in understanding the breadth of use cases of language models across fields and conducting discussion about their societal and ethical implications. Further, we are interested in building robust ways to evaluate language models for these use cases.
