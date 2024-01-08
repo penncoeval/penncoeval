@@ -1,9 +1,10 @@
 # SITE SETTINGS
-title: Petridish                        # Title in top navigation bar (navbar) and <head>
+title: PennCoEval                        # Title in top navigation bar (navbar) and <head>
+description: Penn Consortium for Expert Evaluation of Language Models  # Site description in <head>
 author: Peter Desmet                    # Used for copyright statement in footer
-baseurl: "/petridish"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
-                                        # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
-                                        # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/markdown/#links
+# baseurl: "/petridish"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
+#                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
+#                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/markdown/#links
 
 # SOCIAL PROFILES
 social:
