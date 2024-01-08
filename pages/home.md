@@ -2,7 +2,7 @@
 layout: home
 title: PennCoEval
 description: Penn Consortium for Expert Evaluation of Language Models
-background: assets/theme/images/pawel-czerwinski-xwp0_eLoZp0-unsplash.jpg
+background: assets/theme/images/pawel-czerwinski-pRSHSA2H_QU-unsplash.jpg
 permalink: /
 ---
 
