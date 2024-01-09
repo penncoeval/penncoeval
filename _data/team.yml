@@ -1,7 +1,7 @@
 # Project team members listed below will appear on the /team page
 
 - name: Mark Yatskar
-  role: Assistant Professor # Will appear next to name
+  role: Assistant Professor, CIS # Will appear next to name
   image: assets/theme/images/mark-cropped.png # Can be external link
   # description: > # Can be Markdown
   #   Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
@@ -10,7 +10,7 @@
   email: myatskar@seas.upenn.edu
 
 - name: Chaitanya Malaviya
-  role: PhD student
+  role: PhD student, CIS
   image: assets/theme/images/chaitanya-cropped.jpg # Can be external link
   googlescholar: s3MzzwwAAAAJ&hl=en
   email: cmalaviy@seas.upenn.edu
