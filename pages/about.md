@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Introduction
 
-[TODO: ADD INTRO]
+[TODO: ADD INTRODUCTION]
 
 We are looking for experts from the following fields:
 
