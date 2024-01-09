@@ -1,6 +1,5 @@
 ---
 title: About
-description: Here you can describe your project, lab or yourself. Or remove this page altogether if you don't want to do that.
 background: assets/theme/images/pawel-czerwinski-pRSHSA2H_QU-unsplash.jpg
 permalink: /about/
 ---
