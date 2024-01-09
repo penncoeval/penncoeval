@@ -6,9 +6,11 @@ permalink: /about/
 
 ## Introduction
 
-[TODO: ADD INTRODUCTION]
+[TODO]
 
-We are looking for experts from the following fields:
+## Call for Participation
+
+As part of this initiative, we are inviting experts from the following fields to join the consortium:
 
 * Anthropology
 * Architecture
@@ -35,3 +37,5 @@ We are looking for experts from the following fields:
 * Psychology
 * Sociology
 * Visual Arts
+
+Head over to [this link](https://docs.google.com/forms/d/e/1FAIpQLSdahBIw5HtPgwP6lXQlnh_r8FaaKwsTmqnfkUIfeQ5qvZYN_Q/viewform?usp=sf_link) to join us.
