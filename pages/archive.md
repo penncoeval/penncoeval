@@ -1,7 +1,8 @@
 ---
 layout: archive
-title: News
-description: News & blog posts
+title: Blog
+description: Blog posts
+background: assets/theme/images/pawel-czerwinski-pRSHSA2H_QU-unsplash.jpg
 permalink: /blog/
 ---
 
