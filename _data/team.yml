@@ -2,7 +2,7 @@
 
 - name: Mark Yatskar
   role: Assistant Professor # Will appear next to name
-  image: assets/theme/images/mark_cropped.png # Can be external link
+  image: assets/theme/images/mark-cropped.png # Can be external link
   # description: > # Can be Markdown
   #   Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
   googlescholar: 6RxMYNEAAAAJ
@@ -11,7 +11,7 @@
 
 - name: Chaitanya Malaviya
   role: PhD student
-  image: assets/theme/images/chaitanya_cropped.jpg # Can be external link
+  image: assets/theme/images/chaitanya-cropped.jpg # Can be external link
   googlescholar: s3MzzwwAAAAJ&hl=en
   email: cmalaviy@seas.upenn.edu
   # description: >
