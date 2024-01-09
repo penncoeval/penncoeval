@@ -42,11 +42,14 @@ exclude:
 
 # FRONTMATTER DEFAULTS
 defaults:
-  - scope:
+  -
+    scope:
       path: ""
-    values:
-      layout: default                   # Use default.html layout by default for all files
-  - scope:
-      type: posts
+      type: "posts"
     values:
       permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"                 # Only required for Petridish website, implied for sites using a theme
