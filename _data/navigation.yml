@@ -8,17 +8,5 @@
   href: /team/
 - text: Blog
   href: /blog/
-- text: Documentation
-  menu: # Dropdown menu (one level deep only)
-  - text: Installation
-    href: /docs/installation/
-  - text: Configuration
-    href: /docs/configuration/
-  - href: /docs/markdown/ # Undefined "text" will automatically get the title of the page at "href" (here "Markdown")
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Dropdown header" # Title for block of menu items
-  - text: Page with custom navigation
-    href: /docs/custom-navigation/
-- text: GitHub
-  href: https://github.com/peterdesmet/petridish/
-  new_window: true
+- text: Join Us
+  href: https://docs.google.com/forms/d/e/1FAIpQLSdahBIw5HtPgwP6lXQlnh_r8FaaKwsTmqnfkUIfeQ5qvZYN_Q/viewform?usp=sf_link
