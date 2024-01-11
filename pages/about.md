@@ -10,7 +10,7 @@ The overarching goal of this consortium is to facilitate discussion about how la
 
 We plan to conduct workshops, tutorials and panel discussions on various topics. Here are some relevant topics of discussion:
 
-* Expert needs analysis: How can language (and broadly AI) models support experts in various fields – this can include established tasks performed by experts as well as novel use cases where AI systems could be useful.
+* Expert needs analysis: How can language (and broadly AI) models support experts in various fields? This can include established tasks performed by experts as well as novel use cases where AI systems could be useful.
 * Ethical implications: What are the ethical implications of the use of AI models for various use cases? This could include bias, misinformation, and moral issues.
 * Societal implications: What is the potential impact of AI on the workforce and the future of work in different fields?
 * Accessibility: How can we ensure that language models are equally accessible to all users?
