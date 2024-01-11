@@ -10,13 +10,13 @@ The overarching goal of this consortium is to facilitate discussion about how la
 
 We plan to conduct workshops, tutorials and panel discussions on various topics. Here are some relevant topics of discussion:
 
-* Expert needs analysis: Discussion about how language (and broadly AI) models can support experts in various fields – this can include established tasks performed by experts as well as novel use cases where AI systems could be useful.
-* Ethical implications: Ethical discussions surrounding the use of AI models. This could include bias, misinformation, and moral issues.
-* Societal implications: Impact of AI on the workforce and the future of work.
-* Accessibility: Ensuring that language models are equally accessible to all users.
-* Privacy concerns: Issues concerning user privacy and handling of sensitive information.
-* Legal and policy considerations: Legal concerns related to deployment of language models, such as copyrights, content generation rights etc.
-* Future Directions: Potential interdisciplinary directions that are worthy of exploration.
+* Expert needs analysis: How can language (and broadly AI) models support experts in various fields – this can include established tasks performed by experts as well as novel use cases where AI systems could be useful.
+* Ethical implications: What are the ethical implications of the use of AI models for various use cases? This could include bias, misinformation, and moral issues.
+* Societal implications: What is the potential impact of AI on the workforce and the future of work in different fields?
+* Accessibility: How can we ensure that language models are equally accessible to all users?
+* Privacy concerns: How can we handle potential concerns regarding user privacy and handling of sensitive information?
+* Legal and policy considerations: How can we handle concerns related to deployment of language models, such as copyrights, content generation rights etc?
+* Future Directions: Any potential interdisciplinary directions that are worthy of exploration.
 
 
 ## Call for Participation
